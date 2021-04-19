@@ -1,5 +1,5 @@
-# RemoteResources
-Productivity and wellness tools for the remote worker.
+# Remote resources
+Health, wellness, and productivity tools for the remote worker. Feel free to add or edit!
 
 ### Education
 
