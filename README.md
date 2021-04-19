@@ -1,6 +1,8 @@
 # Remote resources
 Health, wellness, and productivity tools for the remote worker. Feel free to add or edit!
 
+***
+
 ### Education
 
 **[edX](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi-zaLn74jwAhVQV80KHeuhBfUQFjAAegQIAhAE&url=https%3A%2F%2Fwww.edx.org%2F&usg=AOvVaw1-26kQ6vofb648KmCUQ8Mf)**
